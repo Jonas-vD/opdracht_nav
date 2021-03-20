@@ -1,0 +1,15 @@
+body {
+  margin-top: 50px;
+}
+
+.container {
+  height: 50px;
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: yellow;
+}
+
+nav > ul {
+  display: flex;
+}
