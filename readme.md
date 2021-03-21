@@ -2,4 +2,4 @@
 
 ## met social media iconen
 
-[Ontwerp nav](mooi.surge.sh)
+[Ontwerp nav](http://mooi.surge.sh/)
