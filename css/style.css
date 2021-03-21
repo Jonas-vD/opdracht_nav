@@ -13,10 +13,11 @@ body {
 nav > ul {
   display: flex;
   justify-content: space-between;
-  background-color: #252527;
+  background-color: #363636;
 }
 
 nav > ul li {
+  background-color: #252527;
 }
 
 nav > ul li a {
@@ -53,6 +54,11 @@ nav > ul li a:hover {
 nav > ul li:last-child {
   margin-left: auto;
   display: flex;
+}
+
+nav > ul li a:nth-of-type(3) {
+  font-size: 18px;
+  padding: 10px 4px;
 }
 
 nav > ul li > ul {
