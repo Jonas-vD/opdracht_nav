@@ -2,4 +2,4 @@
 
 ## met social media iconen
 
-![enter image description here](./assets/Opdracht_nav.png)
+[Ontwerp nav](mooi.surge.sh)
