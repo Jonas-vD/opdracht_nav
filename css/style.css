@@ -1,15 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600&display=swap");
+
 body {
   margin-top: 50px;
 }
 
 .container {
-  height: 50px;
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
-  background-color: yellow;
 }
 
 nav > ul {
   display: flex;
+  justify-content: space-between;
+  background-color: #252527;
+}
+
+nav > ul li {
+}
+
+nav > ul li a {
+  background-color: #363636;
+  color: #fff;
+  text-decoration: none;
+  margin-right: 1px;
+  text-align: center;
+  display: block;
+
+  font-size: 14px;
+  padding: 12px 14px;
+  text-transform: uppercase;
+  transition: all 300ms;
+  font-family: Oswald;
+  font-weight: 500;
+}
+
+nav > ul li a:hover {
+  color: #60b6ff;
+  background-color: #2e2c2d;
+}
+
+nav > ul li:last-child {
+  margin-left: auto;
 }
